@@ -1,4 +1,5 @@
 # Deloitte Australia Technology Virtual Experience Program
+![HEADER](https://github.com/VanessaAttaFynn/Deloitte_TVEP/blob/main/assets/Deloitte3.png)
 
 ## Table of Contents
 <ul>
